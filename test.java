@@ -3,7 +3,7 @@ import java.util.Scanner;
 /**
  * Created by SDS on 2017-04-14.
  */
-public class eratosthenes
+public class test
 {
     static int n,k,cnt, temp,ans;
     static int[] arr;
